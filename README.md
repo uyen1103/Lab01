@@ -1,4 +1,4 @@
-# Image Processing Lab 1
+# Lab 01
 
 Dự án thực hành nhập môn Thị giác máy tính (Computer Vision) bằng Python và OpenCV, tập trung vào các thao tác cơ bản: đọc/ghi ảnh, chuyển đổi không gian màu, cắt và đổi kích thước ảnh, vẽ hình và thêm chữ lên ảnh. Mã nguồn nằm trong `src/lab1.py`, ảnh gốc đặt trong `data/` và các kết quả được lưu vào `outputs/`.
 
