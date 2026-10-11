@@ -1,6 +1,6 @@
 # Lab 01
 
-Dự án thực hành nhập môn Thị giác máy tính (Computer Vision) bằng Python và OpenCV, tập trung vào các thao tác cơ bản: đọc/ghi ảnh, chuyển đổi không gian màu, cắt và đổi kích thước ảnh, vẽ hình và thêm chữ lên ảnh. Mã nguồn nằm trong `src/lab1.py`, ảnh gốc đặt trong `data/` và các kết quả được lưu vào `outputs/`.
+Dự án thực hành môn Xử lý ảnh và thị giác máy tính bằng Python và OpenCV, tập trung vào các thao tác cơ bản: đọc/ghi ảnh, chuyển đổi không gian màu, cắt và đổi kích thước ảnh, vẽ hình và thêm chữ lên ảnh. Mã nguồn nằm trong `src/lab1.py`, ảnh gốc đặt trong `data/` và các kết quả được lưu vào `outputs/`.
 
 ## Mục tiêu
 
@@ -126,11 +126,4 @@ Các kết quả xử lý được lưu trong thư mục `outputs/`:
 - Đường dẫn trong code được tính từ vị trí của `lab1.py`, nên có thể chạy từ bất kỳ thư mục nào.
 - Cần có môi trường có giao diện đồ họa để `cv2.imshow` hoạt động.
 
-## Tác giả / Mục đích học tập
 
-Dự án này được xây dựng nhằm mục đích làm quen với các thao tác cơ bản trong xử lý ảnh số và thị giác máy tính, đặc biệt phù hợp cho người học mới bắt đầu với:
-
-- đọc/ghi và hiển thị ảnh,
-- các không gian màu,
-- cắt và đổi kích thước ảnh,
-- vẽ hình và chèn chữ lên ảnh.
